@@ -1,0 +1,5112 @@
+{
+  "items": [
+    {
+      "id": "cryptocurrency",
+      "name": "Cryptocurrency"
+    },
+    {
+      "id": "low-code-development",
+      "name": "Low-Code Development"
+    },
+    {
+      "id": "database-management",
+      "name": "Database Management"
+    },
+    {
+      "id": "business-applications",
+      "name": "Business Applications"
+    },
+    {
+      "id": "project-management",
+      "name": "Project Management"
+    },
+    {
+      "id": "time-tracking",
+      "name": "Time Tracking"
+    },
+    {
+      "id": "invoicing",
+      "name": "Invoicing"
+    },
+    {
+      "id": "podcast",
+      "name": "podcast"
+    },
+    {
+      "id": "productivity",
+      "name": "productivity"
+    },
+    {
+      "id": "code-quality",
+      "name": "Code Quality"
+    },
+    {
+      "id": "code-review",
+      "name": "Code Review"
+    },
+    {
+      "id": "static-analysis",
+      "name": "Static Analysis"
+    },
+    {
+      "id": "digital-credentials",
+      "name": "Digital Credentials"
+    },
+    {
+      "id": "education-technology",
+      "name": "Education Technology"
+    },
+    {
+      "id": "file-conversion",
+      "name": "File Conversion"
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity"
+    },
+    {
+      "id": "feedback-management",
+      "name": "Feedback Management"
+    },
+    {
+      "id": "product-management",
+      "name": "Product Management"
+    },
+    {
+      "id": "customer-feedback",
+      "name": "Customer Feedback"
+    },
+    {
+      "id": "developer-tools-&-devops",
+      "name": "Developer Tools & DevOps"
+    },
+    {
+      "id": "other-/-miscellaneous",
+      "name": "Other / Miscellaneous"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "e-commerce",
+      "name": "E-commerce"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-management",
+      "name": "Sales Management"
+    },
+    {
+      "id": "lead-management",
+      "name": "Lead Management"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "ai-&-machine-learning",
+      "name": "AI & Machine Learning"
+    },
+    {
+      "id": "learning-management-system",
+      "name": "Learning Management System"
+    },
+    {
+      "id": "online-training",
+      "name": "Online Training"
+    },
+    {
+      "id": "course-creation",
+      "name": "Course Creation"
+    },
+    {
+      "id": "transcription-services",
+      "name": "Transcription Services"
+    },
+    {
+      "id": "api-integration",
+      "name": "API Integration"
+    },
+    {
+      "id": "content-management",
+      "name": "Content Management"
+    },
+    {
+      "id": "document-export",
+      "name": "Document Export"
+    },
+    {
+      "id": "advertising-&-marketing",
+      "name": "Advertising & Marketing"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "scheduling-&-booking",
+      "name": "Scheduling & Booking"
+    },
+    {
+      "id": "government-data",
+      "name": "Government Data"
+    },
+    {
+      "id": "statistics",
+      "name": "Statistics"
+    },
+    {
+      "id": "demographics",
+      "name": "Demographics"
+    },
+    {
+      "id": "digital-credentials",
+      "name": "Digital Credentials"
+    },
+    {
+      "id": "api-integration",
+      "name": "API Integration"
+    },
+    {
+      "id": "certification-management",
+      "name": "Certification Management"
+    },
+    {
+      "id": "productivity",
+      "name": "productivity"
+    },
+    {
+      "id": "admin",
+      "name": "admin"
+    },
+    {
+      "id": "user_management",
+      "name": "user_management"
+    },
+    {
+      "id": "cryptocurrency",
+      "name": "Cryptocurrency"
+    },
+    {
+      "id": "finance",
+      "name": "Finance"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing"
+    },
+    {
+      "id": "sms-marketing",
+      "name": "SMS Marketing"
+    },
+    {
+      "id": "developer-tools-&-devops",
+      "name": "Developer Tools & DevOps"
+    },
+    {
+      "id": "other-/-miscellaneous",
+      "name": "Other / Miscellaneous"
+    },
+    {
+      "id": "crm-(customer-relationship-management)",
+      "name": "CRM (Customer Relationship Management)"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "workflow-automation",
+      "name": "Workflow Automation"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "developer-tools-&-devops",
+      "name": "Developer Tools & DevOps"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "workflow-automation",
+      "name": "Workflow Automation"
+    },
+    {
+      "id": "document-&-file-management",
+      "name": "Document & File Management"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "chatbot-development",
+      "name": "Chatbot Development"
+    },
+    {
+      "id": "customer-engagement",
+      "name": "Customer Engagement"
+    },
+    {
+      "id": "dev-tools",
+      "name": "dev-tools"
+    },
+    {
+      "id": "ticketing",
+      "name": "ticketing"
+    },
+    {
+      "id": "popular",
+      "name": "popular"
+    },
+    {
+      "id": "developer-tools-&-devops",
+      "name": "Developer Tools & DevOps"
+    },
+    {
+      "id": "api-management",
+      "name": "API Management"
+    },
+    {
+      "id": "developer-tools",
+      "name": "Developer Tools"
+    },
+    {
+      "id": "collaboration",
+      "name": "collaboration"
+    },
+    {
+      "id": "communication",
+      "name": "communication"
+    },
+    {
+      "id": "scheduling",
+      "name": "scheduling"
+    },
+    {
+      "id": "project-management",
+      "name": "project-management"
+    },
+    {
+      "id": "analytics",
+      "name": "analytics"
+    },
+    {
+      "id": "marketing",
+      "name": "marketing"
+    },
+    {
+      "id": "document-&-file-management",
+      "name": "Document & File Management"
+    },
+    {
+      "id": "form-builder",
+      "name": "Form Builder"
+    },
+    {
+      "id": "data-collection",
+      "name": "Data Collection"
+    },
+    {
+      "id": "survey-tool",
+      "name": "Survey Tool"
+    },
+    {
+      "id": "e-commerce",
+      "name": "E-commerce"
+    },
+    {
+      "id": "digital-products",
+      "name": "Digital Products"
+    },
+    {
+      "id": "memberships",
+      "name": "Memberships"
+    },
+    {
+      "id": "physical-goods",
+      "name": "Physical Goods"
+    },
+    {
+      "id": "sales-tax",
+      "name": "Sales Tax"
+    },
+    {
+      "id": "e-commerce",
+      "name": "E-commerce"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "document-conversion",
+      "name": "Document Conversion"
+    },
+    {
+      "id": "file-processing",
+      "name": "File Processing"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "security-&-identity-tools",
+      "name": "Security & Identity Tools"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "file-conversion",
+      "name": "File Conversion"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "communications",
+      "name": "Communications"
+    },
+    {
+      "id": "telecommunications",
+      "name": "Telecommunications"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "conversational-ai",
+      "name": "Conversational AI"
+    },
+    {
+      "id": "chatbot-development",
+      "name": "Chatbot Development"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "collaboration",
+      "name": "collaboration"
+    },
+    {
+      "id": "knowledge-management",
+      "name": "knowledge-management"
+    },
+    {
+      "id": "popular",
+      "name": "popular"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "finance",
+      "name": "Finance"
+    },
+    {
+      "id": "internet/technology",
+      "name": "Internet/Technology"
+    },
+    {
+      "id": "ai/computer-vision",
+      "name": "AI/Computer Vision"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "education",
+      "name": "Education"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "document-&-file-management",
+      "name": "Document & File Management"
+    },
+    {
+      "id": "data-extraction",
+      "name": "Data Extraction"
+    },
+    {
+      "id": "automation",
+      "name": "Automation"
+    },
+    {
+      "id": "ai",
+      "name": "AI"
+    },
+    {
+      "id": "tag1",
+      "name": "tag1"
+    },
+    {
+      "id": "tag2",
+      "name": "tag2"
+    },
+    {
+      "id": "url-shortening",
+      "name": "URL Shortening"
+    },
+    {
+      "id": "link-management",
+      "name": "Link Management"
+    },
+    {
+      "id": "analytics",
+      "name": "Analytics"
+    },
+    {
+      "id": "sports-data",
+      "name": "Sports Data"
+    },
+    {
+      "id": "betting-data",
+      "name": "Betting Data"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "document-generation",
+      "name": "Document Generation"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "no-code-integrations",
+      "name": "No-Code Integrations"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "nft",
+      "name": "NFT"
+    },
+    {
+      "id": "web3",
+      "name": "Web3"
+    },
+    {
+      "id": "charitable-giving",
+      "name": "Charitable Giving"
+    },
+    {
+      "id": "donor-advised-fund",
+      "name": "Donor-Advised Fund"
+    },
+    {
+      "id": "fintech",
+      "name": "Fintech"
+    },
+    {
+      "id": "creative-automation",
+      "name": "Creative Automation"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "visual-content-generation",
+      "name": "Visual Content Generation"
+    },
+    {
+      "id": "online-courses",
+      "name": "Online Courses"
+    },
+    {
+      "id": "e-learning",
+      "name": "E-Learning"
+    },
+    {
+      "id": "community-platform",
+      "name": "Community Platform"
+    },
+    {
+      "id": "document-&-file-management",
+      "name": "Document & File Management"
+    },
+    {
+      "id": "business-management",
+      "name": "Business Management"
+    },
+    {
+      "id": "project-management",
+      "name": "Project Management"
+    },
+    {
+      "id": "time-tracking",
+      "name": "Time Tracking"
+    },
+    {
+      "id": "invoicing",
+      "name": "Invoicing"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity"
+    },
+    {
+      "id": "task-management",
+      "name": "Task Management"
+    },
+    {
+      "id": "developer-tools-&-devops",
+      "name": "Developer Tools & DevOps"
+    },
+    {
+      "id": "time-tracking",
+      "name": "Time Tracking"
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity"
+    },
+    {
+      "id": "project-management",
+      "name": "Project Management"
+    },
+    {
+      "id": "localization",
+      "name": "Localization"
+    },
+    {
+      "id": "translation-management",
+      "name": "Translation Management"
+    },
+    {
+      "id": "energy-management",
+      "name": "Energy Management"
+    },
+    {
+      "id": "sustainability",
+      "name": "Sustainability"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "documents",
+      "name": "Documents"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "other-/-miscellaneous",
+      "name": "Other / Miscellaneous"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "education-&-lms",
+      "name": "Education & LMS"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "marketing",
+      "name": "marketing"
+    },
+    {
+      "id": "notifications",
+      "name": "notifications"
+    },
+    {
+      "id": "social-proof",
+      "name": "social proof"
+    },
+    {
+      "id": "social-media-management",
+      "name": "Social Media Management"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "data-validation",
+      "name": "Data Validation"
+    },
+    {
+      "id": "data-enrichment",
+      "name": "Data Enrichment"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "document-&-file-management",
+      "name": "Document & File Management"
+    },
+    {
+      "id": "workflow-automation",
+      "name": "Workflow Automation"
+    },
+    {
+      "id": "document-&-file-management",
+      "name": "Document & File Management"
+    },
+    {
+      "id": "photography",
+      "name": "Photography"
+    },
+    {
+      "id": "media",
+      "name": "Media"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "developer-tools-&-devops",
+      "name": "Developer Tools & DevOps"
+    },
+    {
+      "id": "artificial-intelligence",
+      "name": "Artificial Intelligence"
+    },
+    {
+      "id": "video-generation",
+      "name": "Video Generation"
+    },
+    {
+      "id": "text-generation",
+      "name": "Text Generation"
+    },
+    {
+      "id": "chat",
+      "name": "Chat"
+    },
+    {
+      "id": "language-models",
+      "name": "Language Models"
+    },
+    {
+      "id": "other-/-miscellaneous",
+      "name": "Other / Miscellaneous"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "social-media",
+      "name": "Social Media"
+    },
+    {
+      "id": "payments",
+      "name": "payments"
+    },
+    {
+      "id": "finance",
+      "name": "finance"
+    },
+    {
+      "id": "e-commerce",
+      "name": "E-commerce"
+    },
+    {
+      "id": "natural-language-processing",
+      "name": "Natural Language Processing"
+    },
+    {
+      "id": "content-moderation",
+      "name": "Content Moderation"
+    },
+    {
+      "id": "sentiment-analysis",
+      "name": "Sentiment Analysis"
+    },
+    {
+      "id": "data-extraction",
+      "name": "Data Extraction"
+    },
+    {
+      "id": "web-automation",
+      "name": "Web Automation"
+    },
+    {
+      "id": "lead-generation",
+      "name": "Lead Generation"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "data-validation",
+      "name": "Data Validation"
+    },
+    {
+      "id": "data-enrichment",
+      "name": "Data Enrichment"
+    },
+    {
+      "id": "time-tracking",
+      "name": "Time Tracking"
+    },
+    {
+      "id": "project-management",
+      "name": "Project Management"
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "document-&-file-management",
+      "name": "Document & File Management"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "messaging",
+      "name": "Messaging"
+    },
+    {
+      "id": "communication",
+      "name": "Communication"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "ai-&-machine-learning",
+      "name": "AI & Machine Learning"
+    },
+    {
+      "id": "financial-data",
+      "name": "Financial Data"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "workflow-automation",
+      "name": "Workflow Automation"
+    },
+    {
+      "id": "hr-&-recruiting",
+      "name": "HR & Recruiting"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "customer-support",
+      "name": "Customer Support"
+    },
+    {
+      "id": "b2b",
+      "name": "B2B"
+    },
+    {
+      "id": "ai-powered",
+      "name": "AI-Powered"
+    },
+    {
+      "id": "web-data-extraction",
+      "name": "Web Data Extraction"
+    },
+    {
+      "id": "artificial-intelligence",
+      "name": "Artificial Intelligence"
+    },
+    {
+      "id": "data-structuring",
+      "name": "Data Structuring"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "sales-funnel-management",
+      "name": "Sales Funnel Management"
+    },
+    {
+      "id": "risk-management",
+      "name": "Risk Management"
+    },
+    {
+      "id": "compliance",
+      "name": "Compliance"
+    },
+    {
+      "id": "audit-management",
+      "name": "Audit Management"
+    },
+    {
+      "id": "networking",
+      "name": "networking"
+    },
+    {
+      "id": "security",
+      "name": "security"
+    },
+    {
+      "id": "cdn",
+      "name": "cdn"
+    },
+    {
+      "id": "dns",
+      "name": "dns"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "sales-engagement",
+      "name": "Sales Engagement"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "e-commerce",
+      "name": "E-commerce"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "document-automation",
+      "name": "Document Automation"
+    },
+    {
+      "id": "document-generation",
+      "name": "Document Generation"
+    },
+    {
+      "id": "forms-automation",
+      "name": "Forms Automation"
+    },
+    {
+      "id": "ed",
+      "name": "ed"
+    },
+    {
+      "id": "video-hosting",
+      "name": "Video Hosting"
+    },
+    {
+      "id": "video-streaming",
+      "name": "Video Streaming"
+    },
+    {
+      "id": "video-marketing",
+      "name": "Video Marketing"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "email-verification",
+      "name": "Email Verification"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "design-&-creative-tools",
+      "name": "Design & Creative Tools"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "e-commerce",
+      "name": "E-Commerce"
+    },
+    {
+      "id": "website-builder",
+      "name": "Website Builder"
+    },
+    {
+      "id": "chatbot-development",
+      "name": "Chatbot Development"
+    },
+    {
+      "id": "conversational-ai",
+      "name": "Conversational AI"
+    },
+    {
+      "id": "ai-platforms",
+      "name": "AI Platforms"
+    },
+    {
+      "id": "hr-&-recruiting",
+      "name": "HR & Recruiting"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "address-verification",
+      "name": "Address Verification"
+    },
+    {
+      "id": "data-validation",
+      "name": "Data Validation"
+    },
+    {
+      "id": "e-commerce-tools",
+      "name": "E-commerce Tools"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "event-management",
+      "name": "Event Management"
+    },
+    {
+      "id": "non-profit",
+      "name": "Non-Profit"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "code-search",
+      "name": "Code Search"
+    },
+    {
+      "id": "code-intelligence",
+      "name": "Code Intelligence"
+    },
+    {
+      "id": "developer-tools",
+      "name": "Developer Tools"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "ai-&-machine-learning",
+      "name": "AI & Machine Learning"
+    },
+    {
+      "id": "email-marketing",
+      "name": "email marketing"
+    },
+    {
+      "id": "lead-generation",
+      "name": "lead generation"
+    },
+    {
+      "id": "data-enrichment",
+      "name": "data enrichment"
+    },
+    {
+      "id": "sales-intelligence",
+      "name": "sales intelligence"
+    },
+    {
+      "id": "business-tools",
+      "name": "business tools"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "marketing",
+      "name": "Marketing"
+    },
+    {
+      "id": "conversion-optimization",
+      "name": "Conversion Optimization"
+    },
+    {
+      "id": "social-media",
+      "name": "Social Media"
+    },
+    {
+      "id": "ai-&-machine-learning",
+      "name": "AI & Machine Learning"
+    },
+    {
+      "id": "ai-&-machine-learning",
+      "name": "AI & Machine Learning"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "document-&-file-management",
+      "name": "Document & File Management"
+    },
+    {
+      "id": "software-development",
+      "name": "Software Development"
+    },
+    {
+      "id": "ai-powered-development-tools",
+      "name": "AI-Powered Development Tools"
+    },
+    {
+      "id": "workflow-automation",
+      "name": "Workflow Automation"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "e-commerce",
+      "name": "E-commerce"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "ai-&-machine-learning",
+      "name": "AI & Machine Learning"
+    },
+    {
+      "id": "scheduling-&-booking",
+      "name": "Scheduling & Booking"
+    },
+    {
+      "id": "developer-tools-&-devops",
+      "name": "Developer Tools & DevOps"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "customer-support",
+      "name": "Customer Support"
+    },
+    {
+      "id": "feedback-management",
+      "name": "Feedback Management"
+    },
+    {
+      "id": "crm-(customer-relationship-management)",
+      "name": "CRM (Customer Relationship Management)"
+    },
+    {
+      "id": "form-builder",
+      "name": "Form Builder"
+    },
+    {
+      "id": "data-collection",
+      "name": "Data Collection"
+    },
+    {
+      "id": "survey-tool",
+      "name": "Survey Tool"
+    },
+    {
+      "id": "hosting",
+      "name": "Hosting"
+    },
+    {
+      "id": "deployment",
+      "name": "Deployment"
+    },
+    {
+      "id": "serverless",
+      "name": "Serverless"
+    },
+    {
+      "id": "other-/-miscellaneous",
+      "name": "Other / Miscellaneous"
+    },
+    {
+      "id": "design-&-creative-tools",
+      "name": "Design & Creative Tools"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "ad-makers",
+      "name": "Ad Makers"
+    },
+    {
+      "id": "notifications",
+      "name": "Notifications"
+    },
+    {
+      "id": "messaging",
+      "name": "Messaging"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "lead-generation",
+      "name": "Lead Generation"
+    },
+    {
+      "id": "sales-automation",
+      "name": "Sales Automation"
+    },
+    {
+      "id": "customer-engagement",
+      "name": "Customer Engagement"
+    },
+    {
+      "id": "design-&-creative-tools",
+      "name": "Design & Creative Tools"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales",
+      "name": "Sales"
+    },
+    {
+      "id": "project-management",
+      "name": "Project Management"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "language",
+      "name": "Language"
+    },
+    {
+      "id": "education",
+      "name": "Education"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "time-tracking",
+      "name": "Time Tracking"
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity"
+    },
+    {
+      "id": "project-management",
+      "name": "Project Management"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "workforce-management",
+      "name": "Workforce Management"
+    },
+    {
+      "id": "employee-communication",
+      "name": "Employee Communication"
+    },
+    {
+      "id": "hr-management",
+      "name": "HR Management"
+    },
+    {
+      "id": "newsletter-management",
+      "name": "Newsletter Management"
+    },
+    {
+      "id": "content-curation",
+      "name": "Content Curation"
+    },
+    {
+      "id": "internet-security",
+      "name": "Internet Security"
+    },
+    {
+      "id": "public-key-infrastructure",
+      "name": "Public Key Infrastructure"
+    },
+    {
+      "id": "iot-security",
+      "name": "IoT Security"
+    },
+    {
+      "id": "delivery-management",
+      "name": "Delivery Management"
+    },
+    {
+      "id": "logistics",
+      "name": "Logistics"
+    },
+    {
+      "id": "transportation",
+      "name": "Transportation"
+    },
+    {
+      "id": "database-management",
+      "name": "Database Management"
+    },
+    {
+      "id": "no-code-development",
+      "name": "No-Code Development"
+    },
+    {
+      "id": "business-productivity",
+      "name": "Business Productivity"
+    },
+    {
+      "id": "business-messaging",
+      "name": "Business Messaging"
+    },
+    {
+      "id": "customer-communication",
+      "name": "Customer Communication"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "advertising",
+      "name": "Advertising"
+    },
+    {
+      "id": "marketing",
+      "name": "Marketing"
+    },
+    {
+      "id": "document-&-file-management",
+      "name": "Document & File Management"
+    },
+    {
+      "id": "scheduling-&-booking",
+      "name": "Scheduling & Booking"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "advertising-&-marketing",
+      "name": "Advertising & Marketing"
+    },
+    {
+      "id": "tax-compliance",
+      "name": "Tax Compliance"
+    },
+    {
+      "id": "invoicing",
+      "name": "Invoicing"
+    },
+    {
+      "id": "accounting",
+      "name": "Accounting"
+    },
+    {
+      "id": "communication",
+      "name": "Communication"
+    },
+    {
+      "id": "mass-notification",
+      "name": "Mass Notification"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "customer-support",
+      "name": "Customer Support"
+    },
+    {
+      "id": "sales-automation",
+      "name": "Sales Automation"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "monitoring-&-observability",
+      "name": "Monitoring & Observability"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing"
+    },
+    {
+      "id": "sales-automation",
+      "name": "Sales Automation"
+    },
+    {
+      "id": "lead-generation",
+      "name": "Lead Generation"
+    },
+    {
+      "id": "speech-recognition",
+      "name": "Speech Recognition"
+    },
+    {
+      "id": "ai",
+      "name": "AI"
+    },
+    {
+      "id": "apis",
+      "name": "APIs"
+    },
+    {
+      "id": "cloud-computing",
+      "name": "Cloud Computing"
+    },
+    {
+      "id": "infrastructure-as-a-service-(iaas)",
+      "name": "Infrastructure as a Service (IaaS)"
+    },
+    {
+      "id": "web-hosting",
+      "name": "Web Hosting"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "some-category",
+      "name": "Some category"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "scheduling-&-booking",
+      "name": "Scheduling & Booking"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "entertainment-&-media",
+      "name": "Entertainment & Media"
+    },
+    {
+      "id": "other-/-miscellaneous",
+      "name": "Other / Miscellaneous"
+    },
+    {
+      "id": "security-&-compliance",
+      "name": "Security & Compliance"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "e-commerce",
+      "name": "E-commerce"
+    },
+    {
+      "id": "workflow-automation",
+      "name": "Workflow Automation"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "document-&-file-management",
+      "name": "Document & File Management"
+    },
+    {
+      "id": "human-resources",
+      "name": "Human Resources"
+    },
+    {
+      "id": "recruiting",
+      "name": "Recruiting"
+    },
+    {
+      "id": "applicant-tracking-system",
+      "name": "Applicant Tracking System"
+    },
+    {
+      "id": "security",
+      "name": "Security"
+    },
+    {
+      "id": "networking",
+      "name": "Networking"
+    },
+    {
+      "id": "content-filtering",
+      "name": "Content Filtering"
+    },
+    {
+      "id": "some-category",
+      "name": "Some category"
+    },
+    {
+      "id": "crowdfunding",
+      "name": "Crowdfunding"
+    },
+    {
+      "id": "creator-support",
+      "name": "Creator Support"
+    },
+    {
+      "id": "e-commerce",
+      "name": "E-commerce"
+    },
+    {
+      "id": "storage-management",
+      "name": "Storage Management"
+    },
+    {
+      "id": "business-automation",
+      "name": "Business Automation"
+    },
+    {
+      "id": "cloud-software",
+      "name": "Cloud Software"
+    },
+    {
+      "id": "document-processing",
+      "name": "Document Processing"
+    },
+    {
+      "id": "data-extraction",
+      "name": "Data Extraction"
+    },
+    {
+      "id": "ai-automation",
+      "name": "AI Automation"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "chatbot-development",
+      "name": "Chatbot Development"
+    },
+    {
+      "id": "customer-engagement",
+      "name": "Customer Engagement"
+    },
+    {
+      "id": "lead-generation",
+      "name": "Lead Generation"
+    },
+    {
+      "id": "customer-support",
+      "name": "Customer Support"
+    },
+    {
+      "id": "design-&-creative-tools",
+      "name": "Design & Creative Tools"
+    },
+    {
+      "id": "e-commerce",
+      "name": "E-commerce"
+    },
+    {
+      "id": "ai-&-machine-learning",
+      "name": "AI & Machine Learning"
+    },
+    {
+      "id": "content-management-system",
+      "name": "Content Management System"
+    },
+    {
+      "id": "headless-cms",
+      "name": "Headless CMS"
+    },
+    {
+      "id": "customer-communication",
+      "name": "Customer Communication"
+    },
+    {
+      "id": "ai-powered-messaging",
+      "name": "AI-Powered Messaging"
+    },
+    {
+      "id": "email",
+      "name": "Email"
+    },
+    {
+      "id": "hr-&-payroll",
+      "name": "HR & Payroll"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "sales-engagement",
+      "name": "Sales Engagement"
+    },
+    {
+      "id": "email-automation",
+      "name": "Email Automation"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "other-/-miscellaneous",
+      "name": "Other / Miscellaneous"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "other-/-miscellaneous",
+      "name": "Other / Miscellaneous"
+    },
+    {
+      "id": "customer-experience-management",
+      "name": "Customer Experience Management"
+    },
+    {
+      "id": "survey-tools",
+      "name": "Survey Tools"
+    },
+    {
+      "id": "feedback-analytics",
+      "name": "Feedback Analytics"
+    },
+    {
+      "id": "business-management",
+      "name": "Business Management"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "project-management",
+      "name": "Project Management"
+    },
+    {
+      "id": "finance",
+      "name": "Finance"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "document-processing",
+      "name": "Document Processing"
+    },
+    {
+      "id": "artificial-intelligence",
+      "name": "Artificial Intelligence"
+    },
+    {
+      "id": "data-extraction",
+      "name": "Data Extraction"
+    },
+    {
+      "id": "feature-flags",
+      "name": "Feature Flags"
+    },
+    {
+      "id": "feature-management",
+      "name": "Feature Management"
+    },
+    {
+      "id": "experimentation",
+      "name": "Experimentation"
+    },
+    {
+      "id": "continuous-delivery",
+      "name": "Continuous Delivery"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "project-management",
+      "name": "Project Management"
+    },
+    {
+      "id": "contractor-software",
+      "name": "Contractor Software"
+    },
+    {
+      "id": "hr-&-recruiting",
+      "name": "HR & Recruiting"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "web-scraping",
+      "name": "Web Scraping"
+    },
+    {
+      "id": "data-extraction",
+      "name": "Data Extraction"
+    },
+    {
+      "id": "browser-automation",
+      "name": "Browser Automation"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "web-scraping",
+      "name": "Web Scraping"
+    },
+    {
+      "id": "data-extraction",
+      "name": "Data Extraction"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing"
+    },
+    {
+      "id": "some-category",
+      "name": "Some category"
+    },
+    {
+      "id": "logistics",
+      "name": "Logistics"
+    },
+    {
+      "id": "route-optimization",
+      "name": "Route Optimization"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "natural-language-processing",
+      "name": "Natural Language Processing"
+    },
+    {
+      "id": "text-analytics",
+      "name": "Text Analytics"
+    },
+    {
+      "id": "machine-learning",
+      "name": "Machine Learning"
+    },
+    {
+      "id": "incident-management",
+      "name": "Incident Management"
+    },
+    {
+      "id": "devops",
+      "name": "DevOps"
+    },
+    {
+      "id": "it-operations",
+      "name": "IT Operations"
+    },
+    {
+      "id": "automation",
+      "name": "Automation"
+    },
+    {
+      "id": "collaboration",
+      "name": "Collaboration"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "security-&-compliance",
+      "name": "Security & Compliance"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "ai",
+      "name": "AI"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "machine-learning",
+      "name": "Machine Learning"
+    },
+    {
+      "id": "speech-recognition",
+      "name": "Speech Recognition"
+    },
+    {
+      "id": "machine-learning",
+      "name": "Machine Learning"
+    },
+    {
+      "id": "artificial-intelligence",
+      "name": "Artificial Intelligence"
+    },
+    {
+      "id": "business-intelligence",
+      "name": "Business Intelligence"
+    },
+    {
+      "id": "data-visualization",
+      "name": "Data Visualization"
+    },
+    {
+      "id": "dashboard-software",
+      "name": "Dashboard Software"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "customer-testimonials",
+      "name": "Customer Testimonials"
+    },
+    {
+      "id": "review-management",
+      "name": "Review Management"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "document-&-file-management",
+      "name": "Document & File Management"
+    },
+    {
+      "id": "hr-&-recruiting",
+      "name": "HR & Recruiting"
+    },
+    {
+      "id": "workplace-safety",
+      "name": "Workplace Safety"
+    },
+    {
+      "id": "quality-management",
+      "name": "Quality Management"
+    },
+    {
+      "id": "inspection-software",
+      "name": "Inspection Software"
+    },
+    {
+      "id": "event-management",
+      "name": "Event Management"
+    },
+    {
+      "id": "ticketing",
+      "name": "Ticketing"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "lead-generation",
+      "name": "Lead Generation"
+    },
+    {
+      "id": "website-visitor-tracking",
+      "name": "Website Visitor Tracking"
+    },
+    {
+      "id": "sales-prospecting",
+      "name": "Sales Prospecting"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-automation",
+      "name": "Sales Automation"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "customer-support",
+      "name": "Customer Support"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "software",
+      "name": "Software"
+    },
+    {
+      "id": "research-analysis",
+      "name": "Research Analysis"
+    },
+    {
+      "id": "transcription",
+      "name": "Transcription"
+    },
+    {
+      "id": "survey",
+      "name": "Survey"
+    },
+    {
+      "id": "data-collection",
+      "name": "Data Collection"
+    },
+    {
+      "id": "analytics",
+      "name": "Analytics"
+    },
+    {
+      "id": "hr-&-recruiting",
+      "name": "HR & Recruiting"
+    },
+    {
+      "id": "generative-ai",
+      "name": "Generative AI"
+    },
+    {
+      "id": "image-generation",
+      "name": "Image Generation"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "sales",
+      "name": "Sales"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "lead-management",
+      "name": "Lead Management"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "ai-voice-agents",
+      "name": "AI Voice Agents"
+    },
+    {
+      "id": "customer-service-automation",
+      "name": "Customer Service Automation"
+    },
+    {
+      "id": "call-center-solutions",
+      "name": "Call Center Solutions"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing"
+    },
+    {
+      "id": "sms-marketing",
+      "name": "SMS Marketing"
+    },
+    {
+      "id": "messaging",
+      "name": "Messaging"
+    },
+    {
+      "id": "communication",
+      "name": "Communication"
+    },
+    {
+      "id": "customer-engagement",
+      "name": "Customer Engagement"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "communication",
+      "name": "Communication"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "messaging",
+      "name": "Messaging"
+    },
+    {
+      "id": "ai-&-machine-learning",
+      "name": "AI & Machine Learning"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "artificial-intelligence",
+      "name": "Artificial Intelligence"
+    },
+    {
+      "id": "machine-learning",
+      "name": "Machine Learning"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "conversion-optimization",
+      "name": "Conversion Optimization"
+    },
+    {
+      "id": "lead-generation",
+      "name": "Lead Generation"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "web-performance-monitoring",
+      "name": "Web Performance Monitoring"
+    },
+    {
+      "id": "website-monitoring",
+      "name": "Website Monitoring"
+    },
+    {
+      "id": "application-monitoring",
+      "name": "Application Monitoring"
+    },
+    {
+      "id": "gaming",
+      "name": "gaming"
+    },
+    {
+      "id": "social",
+      "name": "social"
+    },
+    {
+      "id": "popular",
+      "name": "popular"
+    },
+    {
+      "id": "event-management",
+      "name": "Event Management"
+    },
+    {
+      "id": "ticketing",
+      "name": "Ticketing"
+    },
+    {
+      "id": "registration",
+      "name": "Registration"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "text-to-speech",
+      "name": "Text-to-Speech"
+    },
+    {
+      "id": "ai-voice-generator",
+      "name": "AI Voice Generator"
+    },
+    {
+      "id": "event-management",
+      "name": "Event Management"
+    },
+    {
+      "id": "event-planning",
+      "name": "Event Planning"
+    },
+    {
+      "id": "event-technology",
+      "name": "Event Technology"
+    },
+    {
+      "id": "document-processing",
+      "name": "Document Processing"
+    },
+    {
+      "id": "data-extraction",
+      "name": "Data Extraction"
+    },
+    {
+      "id": "ai",
+      "name": "AI"
+    },
+    {
+      "id": "financial-data",
+      "name": "Financial Data"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "ai-chatbots",
+      "name": "AI Chatbots"
+    },
+    {
+      "id": "customer-support-automation",
+      "name": "Customer Support Automation"
+    },
+    {
+      "id": "content-generation",
+      "name": "Content Generation"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "ai",
+      "name": "AI"
+    },
+    {
+      "id": "image-processing",
+      "name": "Image Processing"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "e-commerce",
+      "name": "E-commerce"
+    },
+    {
+      "id": "payment-processing",
+      "name": "Payment Processing"
+    },
+    {
+      "id": "subscription-management",
+      "name": "Subscription Management"
+    },
+    {
+      "id": "geospatial",
+      "name": "Geospatial"
+    },
+    {
+      "id": "mapping",
+      "name": "Mapping"
+    },
+    {
+      "id": "gis",
+      "name": "GIS"
+    },
+    {
+      "id": "payments",
+      "name": "Payments"
+    },
+    {
+      "id": "fintech",
+      "name": "Fintech"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "sales-automation",
+      "name": "Sales Automation"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing"
+    },
+    {
+      "id": "lead-generation",
+      "name": "Lead Generation"
+    },
+    {
+      "id": "e-commerce",
+      "name": "E-commerce"
+    },
+    {
+      "id": "productivity",
+      "name": "productivity"
+    },
+    {
+      "id": "ticketing",
+      "name": "ticketing"
+    },
+    {
+      "id": "popular",
+      "name": "popular"
+    },
+    {
+      "id": "communication-&-messaging",
+      "name": "Communication & Messaging"
+    },
+    {
+      "id": "scheduling-&-booking",
+      "name": "Scheduling & Booking"
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain"
+    },
+    {
+      "id": "web3",
+      "name": "Web3"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum"
+    },
+    {
+      "id": "other-/-miscellaneous",
+      "name": "Other / Miscellaneous"
+    },
+    {
+      "id": "hr-&-recruiting",
+      "name": "HR & Recruiting"
+    },
+    {
+      "id": "printing",
+      "name": "Printing"
+    },
+    {
+      "id": "mailing-services",
+      "name": "Mailing Services"
+    },
+    {
+      "id": "api-integration",
+      "name": "API Integration"
+    },
+    {
+      "id": "ai-&-machine-learning",
+      "name": "AI & Machine Learning"
+    },
+    {
+      "id": "other-/-miscellaneous",
+      "name": "Other / Miscellaneous"
+    },
+    {
+      "id": "vacation-rental-software",
+      "name": "Vacation Rental Software"
+    },
+    {
+      "id": "property-management-software",
+      "name": "Property Management Software"
+    },
+    {
+      "id": "channel-management",
+      "name": "Channel Management"
+    },
+    {
+      "id": "finance",
+      "name": "Finance"
+    },
+    {
+      "id": "currency-exchange",
+      "name": "Currency Exchange"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "fundraising",
+      "name": "Fundraising"
+    },
+    {
+      "id": "nonprofit",
+      "name": "Nonprofit"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "web-scraping",
+      "name": "Web Scraping"
+    },
+    {
+      "id": "data-collection",
+      "name": "Data Collection"
+    },
+    {
+      "id": "proxy-services",
+      "name": "Proxy Services"
+    },
+    {
+      "id": "serp-api",
+      "name": "SERP API"
+    },
+    {
+      "id": "document-comparison",
+      "name": "Document Comparison"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "workflow-automation",
+      "name": "Workflow Automation"
+    },
+    {
+      "id": "ai-video",
+      "name": "AI-Video"
+    },
+    {
+      "id": "photography",
+      "name": "Photography"
+    },
+    {
+      "id": "photo-sharing",
+      "name": "Photo Sharing"
+    },
+    {
+      "id": "online-galleries",
+      "name": "Online Galleries"
+    },
+    {
+      "id": "some-category",
+      "name": "Some category"
+    },
+    {
+      "id": "point-of-sale",
+      "name": "Point of Sale"
+    },
+    {
+      "id": "retail-management",
+      "name": "Retail Management"
+    },
+    {
+      "id": "inventory-management",
+      "name": "Inventory Management"
+    },
+    {
+      "id": "signatures",
+      "name": "Signatures"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "location-services",
+      "name": "Location Services"
+    },
+    {
+      "id": "geofencing",
+      "name": "Geofencing"
+    },
+    {
+      "id": "mapping-apis",
+      "name": "Mapping APIs"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "recruitment",
+      "name": "Recruitment"
+    },
+    {
+      "id": "human-resources",
+      "name": "Human Resources"
+    },
+    {
+      "id": "applicant-tracking-system",
+      "name": "Applicant Tracking System"
+    },
+    {
+      "id": "ai-&-machine-learning",
+      "name": "AI & Machine Learning"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "developer-tools-&-devops",
+      "name": "Developer Tools & DevOps"
+    },
+    {
+      "id": "direct-mail-automation",
+      "name": "Direct Mail Automation"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "e-commerce",
+      "name": "E-commerce"
+    },
+    {
+      "id": "payment",
+      "name": "payment"
+    },
+    {
+      "id": "social",
+      "name": "social"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "accessibility",
+      "name": "Accessibility"
+    },
+    {
+      "id": "seo",
+      "name": "SEO"
+    },
+    {
+      "id": "image-processing",
+      "name": "Image Processing"
+    },
+    {
+      "id": "communication",
+      "name": "Communication"
+    },
+    {
+      "id": "data-validation",
+      "name": "Data Validation"
+    },
+    {
+      "id": "esignature",
+      "name": "eSignature"
+    },
+    {
+      "id": "document-management",
+      "name": "Document Management"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "some-category",
+      "name": "Some category"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "scheduling-&-booking",
+      "name": "Scheduling & Booking"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "entertainment-&-media",
+      "name": "Entertainment & Media"
+    },
+    {
+      "id": "communication",
+      "name": "Communication"
+    },
+    {
+      "id": "automation",
+      "name": "Automation"
+    },
+    {
+      "id": "crm-integration",
+      "name": "CRM Integration"
+    },
+    {
+      "id": "security",
+      "name": "Security"
+    },
+    {
+      "id": "certificate-monitoring",
+      "name": "Certificate Monitoring"
+    },
+    {
+      "id": "entertainment-&-media",
+      "name": "Entertainment & Media"
+    },
+    {
+      "id": "some-category",
+      "name": "Some category"
+    },
+    {
+      "id": "customer-feedback",
+      "name": "Customer Feedback"
+    },
+    {
+      "id": "survey-tools",
+      "name": "Survey Tools"
+    },
+    {
+      "id": "user-insights",
+      "name": "User Insights"
+    },
+    {
+      "id": "entertainment-&-media",
+      "name": "Entertainment & Media"
+    },
+    {
+      "id": "conversational-ai",
+      "name": "Conversational AI"
+    },
+    {
+      "id": "customer-support",
+      "name": "Customer Support"
+    },
+    {
+      "id": "ai-chatbots",
+      "name": "AI Chatbots"
+    },
+    {
+      "id": "ai-voice-agents",
+      "name": "AI Voice Agents"
+    },
+    {
+      "id": "store-locator",
+      "name": "Store Locator"
+    },
+    {
+      "id": "retail-services",
+      "name": "Retail Services"
+    },
+    {
+      "id": "web-development",
+      "name": "Web Development"
+    },
+    {
+      "id": "weather-data",
+      "name": "Weather Data"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "productivity",
+      "name": "productivity"
+    },
+    {
+      "id": "ticketing",
+      "name": "ticketing"
+    },
+    {
+      "id": "popular",
+      "name": "popular"
+    },
+    {
+      "id": "retail",
+      "name": "Retail"
+    },
+    {
+      "id": "e-commerce",
+      "name": "E-commerce"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "weather",
+      "name": "Weather"
+    },
+    {
+      "id": "iot",
+      "name": "IoT"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "video-subtitling",
+      "name": "Video Subtitling"
+    },
+    {
+      "id": "captioning",
+      "name": "Captioning"
+    },
+    {
+      "id": "subtitle-translation",
+      "name": "Subtitle Translation"
+    },
+    {
+      "id": "direct-mail",
+      "name": "Direct Mail"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "social",
+      "name": "social"
+    },
+    {
+      "id": "marketing",
+      "name": "marketing"
+    },
+    {
+      "id": "popular",
+      "name": "popular"
+    },
+    {
+      "id": "environmental-data",
+      "name": "Environmental Data"
+    },
+    {
+      "id": "apis",
+      "name": "APIs"
+    },
+    {
+      "id": "climate-intelligence",
+      "name": "Climate Intelligence"
+    },
+    {
+      "id": "ai",
+      "name": "AI"
+    },
+    {
+      "id": "machine-learning",
+      "name": "Machine Learning"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "other-/-miscellaneous",
+      "name": "Other / Miscellaneous"
+    },
+    {
+      "id": "finance",
+      "name": "Finance"
+    },
+    {
+      "id": "accounting",
+      "name": "Accounting"
+    },
+    {
+      "id": "invoicing",
+      "name": "Invoicing"
+    },
+    {
+      "id": "real-estate",
+      "name": "Real Estate"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "property-management",
+      "name": "Property Management"
+    },
+    {
+      "id": "web3-development",
+      "name": "Web3 Development"
+    },
+    {
+      "id": "blockchain-api",
+      "name": "Blockchain API"
+    },
+    {
+      "id": "smart-contract-management",
+      "name": "Smart Contract Management"
+    },
+    {
+      "id": "religion",
+      "name": "Religion"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "website-monitoring",
+      "name": "Website Monitoring"
+    },
+    {
+      "id": "performance-monitoring",
+      "name": "Performance Monitoring"
+    },
+    {
+      "id": "devops-tools",
+      "name": "DevOps Tools"
+    },
+    {
+      "id": "ai-tools",
+      "name": "AI Tools"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "automation",
+      "name": "Automation"
+    },
+    {
+      "id": "pdf-generation",
+      "name": "PDF Generation"
+    },
+    {
+      "id": "document-conversion",
+      "name": "Document Conversion"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "social-media-management",
+      "name": "Social Media Management"
+    },
+    {
+      "id": "content-creation",
+      "name": "Content Creation"
+    },
+    {
+      "id": "analytics",
+      "name": "Analytics"
+    },
+    {
+      "id": "ai-agentic-browser-automation",
+      "name": "AI Agentic Browser Automation"
+    },
+    {
+      "id": "web-automation",
+      "name": "Web Automation"
+    },
+    {
+      "id": "developer-tools",
+      "name": "Developer Tools"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "web-scraping",
+      "name": "Web Scraping"
+    },
+    {
+      "id": "data-extraction",
+      "name": "Data Extraction"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "document-generation",
+      "name": "Document Generation"
+    },
+    {
+      "id": "image-generation",
+      "name": "Image Generation"
+    },
+    {
+      "id": "document-&-file-management",
+      "name": "Document & File Management"
+    },
+    {
+      "id": "web-development",
+      "name": "Web Development"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "document-&-file-management",
+      "name": "Document & File Management"
+    },
+    {
+      "id": "email-validation",
+      "name": "Email Validation"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "maintenance-management",
+      "name": "Maintenance Management"
+    },
+    {
+      "id": "asset-management",
+      "name": "Asset Management"
+    },
+    {
+      "id": "workflow-automation",
+      "name": "Workflow Automation"
+    },
+    {
+      "id": "seo",
+      "name": "SEO"
+    },
+    {
+      "id": "data-import",
+      "name": "Data Import"
+    },
+    {
+      "id": "data-validation",
+      "name": "Data Validation"
+    },
+    {
+      "id": "data-transformation",
+      "name": "Data Transformation"
+    },
+    {
+      "id": "home-automation",
+      "name": "Home Automation"
+    },
+    {
+      "id": "internet-of-things-(iot)",
+      "name": "Internet of Things (IoT)"
+    },
+    {
+      "id": "ai-&-machine-learning",
+      "name": "AI & Machine Learning"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "automation",
+      "name": "Automation"
+    },
+    {
+      "id": "integration",
+      "name": "Integration"
+    },
+    {
+      "id": "workflow-automation",
+      "name": "Workflow Automation"
+    },
+    {
+      "id": "ai-aggregator",
+      "name": "AI Aggregator"
+    },
+    {
+      "id": "api-integration",
+      "name": "API Integration"
+    },
+    {
+      "id": "machine-learning",
+      "name": "Machine Learning"
+    },
+    {
+      "id": "communication",
+      "name": "communication"
+    },
+    {
+      "id": "messaging",
+      "name": "messaging"
+    },
+    {
+      "id": "web-scraping",
+      "name": "Web Scraping"
+    },
+    {
+      "id": "automation",
+      "name": "Automation"
+    },
+    {
+      "id": "data-extraction",
+      "name": "Data Extraction"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "digital-marketing",
+      "name": "Digital Marketing"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "sports-data",
+      "name": "Sports Data"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "email-validation",
+      "name": "Email Validation"
+    },
+    {
+      "id": "email-deliverability",
+      "name": "Email Deliverability"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing"
+    },
+    {
+      "id": "b2b-email-finder",
+      "name": "B2B Email Finder"
+    },
+    {
+      "id": "data-enrichment",
+      "name": "Data Enrichment"
+    },
+    {
+      "id": "crm-integration",
+      "name": "CRM Integration"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "sms-marketing",
+      "name": "SMS Marketing"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "pdf-generation",
+      "name": "PDF Generation"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "continuous-integration",
+      "name": "Continuous Integration"
+    },
+    {
+      "id": "continuous-delivery",
+      "name": "Continuous Delivery"
+    },
+    {
+      "id": "mobile-development",
+      "name": "Mobile Development"
+    },
+    {
+      "id": "devops",
+      "name": "DevOps"
+    },
+    {
+      "id": "gaming",
+      "name": "Gaming"
+    },
+    {
+      "id": "action-rpg",
+      "name": "Action RPG"
+    },
+    {
+      "id": "mmorpg",
+      "name": "MMORPG"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "artificial-intelligence",
+      "name": "Artificial Intelligence"
+    },
+    {
+      "id": "machine-learning",
+      "name": "Machine Learning"
+    },
+    {
+      "id": "natural-language-processing",
+      "name": "Natural Language Processing"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "search",
+      "name": "Search"
+    },
+    {
+      "id": "apis",
+      "name": "APIs"
+    },
+    {
+      "id": "web-scraping",
+      "name": "Web Scraping"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "document-&-file-management",
+      "name": "Document & File Management"
+    },
+    {
+      "id": "appointment-scheduling",
+      "name": "Appointment Scheduling"
+    },
+    {
+      "id": "e-commerce-integration",
+      "name": "E-commerce Integration"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "document-processing",
+      "name": "Document Processing"
+    },
+    {
+      "id": "data-extraction",
+      "name": "Data Extraction"
+    },
+    {
+      "id": "continuous-integration",
+      "name": "Continuous Integration"
+    },
+    {
+      "id": "continuous-deployment",
+      "name": "Continuous Deployment"
+    },
+    {
+      "id": "devops",
+      "name": "DevOps"
+    },
+    {
+      "id": "customer-relationship-management-(crm)",
+      "name": "Customer Relationship Management (CRM)"
+    },
+    {
+      "id": "sales-automation",
+      "name": "Sales Automation"
+    },
+    {
+      "id": "ai-&-machine-learning",
+      "name": "AI & Machine Learning"
+    },
+    {
+      "id": "ai",
+      "name": "AI"
+    },
+    {
+      "id": "document-processing",
+      "name": "Document Processing"
+    },
+    {
+      "id": "data-analytics",
+      "name": "Data Analytics"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "security-&-compliance",
+      "name": "Security & Compliance"
+    },
+    {
+      "id": "authentication",
+      "name": "Authentication"
+    },
+    {
+      "id": "user-management",
+      "name": "User Management"
+    },
+    {
+      "id": "payments",
+      "name": "Payments"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "ai-&-machine-learning",
+      "name": "AI & Machine Learning"
+    },
+    {
+      "id": "email-verification",
+      "name": "Email Verification"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing"
+    },
+    {
+      "id": "productivity",
+      "name": "productivity"
+    },
+    {
+      "id": "ticketing",
+      "name": "ticketing"
+    },
+    {
+      "id": "search",
+      "name": "Search"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "database",
+      "name": "Database"
+    },
+    {
+      "id": "online-courses",
+      "name": "Online Courses"
+    },
+    {
+      "id": "membership-platforms",
+      "name": "Membership Platforms"
+    },
+    {
+      "id": "digital-product-hosting",
+      "name": "Digital Product Hosting"
+    },
+    {
+      "id": "developer-tools-&-devops",
+      "name": "Developer Tools & DevOps"
+    },
+    {
+      "id": "database",
+      "name": "Database"
+    },
+    {
+      "id": "developer-tools",
+      "name": "Developer Tools"
+    },
+    {
+      "id": "infrastructure",
+      "name": "Infrastructure"
+    },
+    {
+      "id": "email-verification",
+      "name": "Email Verification"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "human-resources",
+      "name": "Human Resources"
+    },
+    {
+      "id": "recruitment",
+      "name": "Recruitment"
+    },
+    {
+      "id": "video-interviewing",
+      "name": "Video Interviewing"
+    },
+    {
+      "id": "crm",
+      "name": "crm"
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity"
+    },
+    {
+      "id": "communication",
+      "name": "Communication"
+    },
+    {
+      "id": "field-service-management",
+      "name": "Field Service Management"
+    },
+    {
+      "id": "job-scheduling",
+      "name": "Job Scheduling"
+    },
+    {
+      "id": "invoicing",
+      "name": "Invoicing"
+    },
+    {
+      "id": "customer-management",
+      "name": "Customer Management"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "fundraising",
+      "name": "Fundraising"
+    },
+    {
+      "id": "nonprofit",
+      "name": "Nonprofit"
+    },
+    {
+      "id": "charity",
+      "name": "Charity"
+    },
+    {
+      "id": "social-media",
+      "name": "Social Media"
+    },
+    {
+      "id": "invoicing",
+      "name": "Invoicing"
+    },
+    {
+      "id": "time-tracking",
+      "name": "Time Tracking"
+    },
+    {
+      "id": "financial-management",
+      "name": "Financial Management"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "artificial-intelligence",
+      "name": "Artificial Intelligence"
+    },
+    {
+      "id": "machine-learning",
+      "name": "Machine Learning"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "sales-engagement",
+      "name": "Sales Engagement"
+    },
+    {
+      "id": "ai-content-generation",
+      "name": "AI Content Generation"
+    },
+    {
+      "id": "b2b-sales-intelligence",
+      "name": "B2B Sales Intelligence"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "web-development",
+      "name": "Web Development"
+    },
+    {
+      "id": "screenshot-service",
+      "name": "Screenshot Service"
+    },
+    {
+      "id": "web-scraping",
+      "name": "Web Scraping"
+    },
+    {
+      "id": "data-extraction",
+      "name": "Data Extraction"
+    },
+    {
+      "id": "ai-tools",
+      "name": "AI Tools"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "voice",
+      "name": "voice"
+    },
+    {
+      "id": "popular",
+      "name": "popular"
+    },
+    {
+      "id": "communication",
+      "name": "Communication"
+    },
+    {
+      "id": "collaboration",
+      "name": "Collaboration"
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity"
+    },
+    {
+      "id": "financial-data",
+      "name": "Financial Data"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "stock-market-data",
+      "name": "Stock Market Data"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "search-engine-optimization",
+      "name": "Search Engine Optimization"
+    },
+    {
+      "id": "web-scraping",
+      "name": "Web Scraping"
+    },
+    {
+      "id": "payment-processing",
+      "name": "Payment Processing"
+    },
+    {
+      "id": "subscription-management",
+      "name": "Subscription Management"
+    },
+    {
+      "id": "business-management",
+      "name": "Business Management"
+    },
+    {
+      "id": "customer-relationship-management",
+      "name": "Customer Relationship Management"
+    },
+    {
+      "id": "repair-shop-software",
+      "name": "Repair Shop Software"
+    },
+    {
+      "id": "transportation",
+      "name": "Transportation"
+    },
+    {
+      "id": "public-transit",
+      "name": "Public Transit"
+    },
+    {
+      "id": "entertainment-&-media",
+      "name": "Entertainment & Media"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "backend-as-a-service",
+      "name": "Backend-as-a-Service"
+    },
+    {
+      "id": "mobile-backend",
+      "name": "Mobile Backend"
+    },
+    {
+      "id": "web-backend",
+      "name": "Web Backend"
+    },
+    {
+      "id": "api-management",
+      "name": "API Management"
+    },
+    {
+      "id": "data-services",
+      "name": "Data Services"
+    },
+    {
+      "id": "business-intelligence",
+      "name": "Business Intelligence"
+    },
+    {
+      "id": "risk-management",
+      "name": "Risk Management"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "entertainment-&-media",
+      "name": "Entertainment & Media"
+    },
+    {
+      "id": "signatures",
+      "name": "Signatures"
+    },
+    {
+      "id": "api-integration",
+      "name": "API Integration"
+    },
+    {
+      "id": "project-management",
+      "name": "Project Management"
+    },
+    {
+      "id": "customer-onboarding",
+      "name": "Customer Onboarding"
+    },
+    {
+      "id": "professional-services",
+      "name": "Professional Services"
+    },
+    {
+      "id": "collaboration",
+      "name": "Collaboration"
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum"
+    },
+    {
+      "id": "analytics",
+      "name": "Analytics"
+    },
+    {
+      "id": "marketing-analytics",
+      "name": "Marketing Analytics"
+    },
+    {
+      "id": "customer-insights",
+      "name": "Customer Insights"
+    },
+    {
+      "id": "data-integration",
+      "name": "Data Integration"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "productivity",
+      "name": "productivity"
+    },
+    {
+      "id": "popular",
+      "name": "popular"
+    },
+    {
+      "id": "ai-&-machine-learning",
+      "name": "AI & Machine Learning"
+    },
+    {
+      "id": "url-shortening",
+      "name": "URL Shortening"
+    },
+    {
+      "id": "link-management",
+      "name": "Link Management"
+    },
+    {
+      "id": "analytics",
+      "name": "Analytics"
+    },
+    {
+      "id": "e-commerce",
+      "name": "E-commerce"
+    },
+    {
+      "id": "order-management",
+      "name": "Order Management"
+    },
+    {
+      "id": "inventory-management",
+      "name": "Inventory Management"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "b2b-prospecting",
+      "name": "B2B Prospecting"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing"
+    },
+    {
+      "id": "sales-automation",
+      "name": "Sales Automation"
+    },
+    {
+      "id": "other-/-miscellaneous",
+      "name": "Other / Miscellaneous"
+    },
+    {
+      "id": "accounting",
+      "name": "Accounting"
+    },
+    {
+      "id": "invoicing",
+      "name": "Invoicing"
+    },
+    {
+      "id": "financial-management",
+      "name": "Financial Management"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "financial-data",
+      "name": "Financial Data"
+    },
+    {
+      "id": "news",
+      "name": "News"
+    },
+    {
+      "id": "developer-tools-&-devops",
+      "name": "Developer Tools & DevOps"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "geolocation",
+      "name": "Geolocation"
+    },
+    {
+      "id": "data-validation",
+      "name": "Data Validation"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "customer-relationship-management-(crm)",
+      "name": "Customer Relationship Management (CRM)"
+    },
+    {
+      "id": "open-source-software",
+      "name": "Open Source Software"
+    },
+    {
+      "id": "business-management",
+      "name": "Business Management"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "event-management",
+      "name": "Event Management"
+    },
+    {
+      "id": "design-&-creative-tools",
+      "name": "Design & Creative Tools"
+    },
+    {
+      "id": "proposal-&-invoice-management",
+      "name": "Proposal & Invoice Management"
+    },
+    {
+      "id": "integration-platform",
+      "name": "Integration Platform"
+    },
+    {
+      "id": "api-management",
+      "name": "API Management"
+    },
+    {
+      "id": "developer-tools",
+      "name": "Developer Tools"
+    },
+    {
+      "id": "proposal-&-invoice-management",
+      "name": "Proposal & Invoice Management"
+    },
+    {
+      "id": "digital-signature",
+      "name": "Digital Signature"
+    },
+    {
+      "id": "document-management",
+      "name": "Document Management"
+    },
+    {
+      "id": "network-diagnostics",
+      "name": "Network Diagnostics"
+    },
+    {
+      "id": "email-monitoring",
+      "name": "Email Monitoring"
+    },
+    {
+      "id": "dns-tools",
+      "name": "DNS Tools"
+    },
+    {
+      "id": "monitoring",
+      "name": "Monitoring"
+    },
+    {
+      "id": "logging",
+      "name": "Logging"
+    },
+    {
+      "id": "incident-management",
+      "name": "Incident Management"
+    },
+    {
+      "id": "compliance",
+      "name": "Compliance"
+    },
+    {
+      "id": "telecommunications",
+      "name": "Telecommunications"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "time-tracking",
+      "name": "Time Tracking"
+    },
+    {
+      "id": "project-management",
+      "name": "Project Management"
+    },
+    {
+      "id": "expense-management",
+      "name": "Expense Management"
+    },
+    {
+      "id": "security-&-compliance",
+      "name": "Security & Compliance"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "machine-learning",
+      "name": "Machine Learning"
+    },
+    {
+      "id": "data-science",
+      "name": "Data Science"
+    },
+    {
+      "id": "artificial-intelligence",
+      "name": "Artificial Intelligence"
+    },
+    {
+      "id": "financial-data",
+      "name": "Financial Data"
+    },
+    {
+      "id": "apis",
+      "name": "APIs"
+    },
+    {
+      "id": "data-services",
+      "name": "Data Services"
+    },
+    {
+      "id": "ai-&-machine-learning",
+      "name": "AI & Machine Learning"
+    },
+    {
+      "id": "developer-tools-&-devops",
+      "name": "Developer Tools & DevOps"
+    },
+    {
+      "id": "hr-&-recruiting",
+      "name": "HR & Recruiting"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "blockchain-data",
+      "name": "Blockchain Data"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "cryptocurrency-analytics",
+      "name": "Cryptocurrency Analytics"
+    },
+    {
+      "id": "science",
+      "name": "Science"
+    },
+    {
+      "id": "space",
+      "name": "Space"
+    },
+    {
+      "id": "technology",
+      "name": "Technology"
+    },
+    {
+      "id": "telecommunications",
+      "name": "Telecommunications"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "contact-center-software",
+      "name": "Contact Center Software"
+    },
+    {
+      "id": "affiliate-marketing",
+      "name": "Affiliate Marketing"
+    },
+    {
+      "id": "referral-tracking",
+      "name": "Referral Tracking"
+    },
+    {
+      "id": "marketing-software",
+      "name": "Marketing Software"
+    },
+    {
+      "id": "whistleblowing",
+      "name": "Whistleblowing"
+    },
+    {
+      "id": "employee-engagement",
+      "name": "Employee Engagement"
+    },
+    {
+      "id": "compliance",
+      "name": "Compliance"
+    },
+    {
+      "id": "some-category",
+      "name": "Some category"
+    },
+    {
+      "id": "email-verification",
+      "name": "Email Verification"
+    },
+    {
+      "id": "data-validation",
+      "name": "Data Validation"
+    },
+    {
+      "id": "data-extraction",
+      "name": "Data Extraction"
+    },
+    {
+      "id": "document-processing",
+      "name": "Document Processing"
+    },
+    {
+      "id": "ai-automation",
+      "name": "AI Automation"
+    },
+    {
+      "id": "document-&-file-management",
+      "name": "Document & File Management"
+    },
+    {
+      "id": "image-optimization",
+      "name": "Image Optimization"
+    },
+    {
+      "id": "developer-tools",
+      "name": "Developer Tools"
+    },
+    {
+      "id": "developer-tools-&-devops",
+      "name": "Developer Tools & DevOps"
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "developer-tools",
+      "name": "Developer Tools"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "event-management",
+      "name": "Event Management"
+    },
+    {
+      "id": "floor-plan-software",
+      "name": "Floor Plan Software"
+    },
+    {
+      "id": "performance-testing",
+      "name": "Performance Testing"
+    },
+    {
+      "id": "functional-testing",
+      "name": "Functional Testing"
+    },
+    {
+      "id": "api-monitoring",
+      "name": "API Monitoring"
+    },
+    {
+      "id": "service-virtualization",
+      "name": "Service Virtualization"
+    },
+    {
+      "id": "test-data-management",
+      "name": "Test Data Management"
+    },
+    {
+      "id": "personal-analytics",
+      "name": "Personal Analytics"
+    },
+    {
+      "id": "health-&-fitness",
+      "name": "Health & Fitness"
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity"
+    },
+    {
+      "id": "internet-security",
+      "name": "Internet Security"
+    },
+    {
+      "id": "privacy",
+      "name": "Privacy"
+    },
+    {
+      "id": "dns-services",
+      "name": "DNS Services"
+    },
+    {
+      "id": "booking-management",
+      "name": "Booking Management"
+    },
+    {
+      "id": "rental-software",
+      "name": "Rental Software"
+    },
+    {
+      "id": "online-reservations",
+      "name": "Online Reservations"
+    },
+    {
+      "id": "developer-tools-&-devops",
+      "name": "Developer Tools & DevOps"
+    },
+    {
+      "id": "developer-tools",
+      "name": "Developer Tools"
+    },
+    {
+      "id": "security",
+      "name": "Security"
+    },
+    {
+      "id": "other-/-miscellaneous",
+      "name": "Other / Miscellaneous"
+    },
+    {
+      "id": "chatbot-development",
+      "name": "Chatbot Development"
+    },
+    {
+      "id": "customer-engagement",
+      "name": "Customer Engagement"
+    },
+    {
+      "id": "automation",
+      "name": "Automation"
+    },
+    {
+      "id": "data-&-analytics",
+      "name": "Data & Analytics"
+    },
+    {
+      "id": "ai-chatbot",
+      "name": "AI Chatbot"
+    },
+    {
+      "id": "no-code-development",
+      "name": "No-Code Development"
+    },
+    {
+      "id": "customer-support-automation",
+      "name": "Customer Support Automation"
+    },
+    {
+      "id": "form-builder",
+      "name": "Form Builder"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "artificial-intelligence",
+      "name": "Artificial Intelligence"
+    },
+    {
+      "id": "video-generation",
+      "name": "Video Generation"
+    },
+    {
+      "id": "rental-management",
+      "name": "Rental Management"
+    },
+    {
+      "id": "inventory-management",
+      "name": "Inventory Management"
+    },
+    {
+      "id": "booking-systems",
+      "name": "Booking Systems"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "integrations",
+      "name": "Integrations"
+    },
+    {
+      "id": "web-monitoring",
+      "name": "Web Monitoring"
+    },
+    {
+      "id": "automation",
+      "name": "Automation"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "email-verification",
+      "name": "Email Verification"
+    },
+    {
+      "id": "data-enrichment",
+      "name": "Data Enrichment"
+    },
+    {
+      "id": "sales-prospecting",
+      "name": "Sales Prospecting"
+    },
+    {
+      "id": "computational-knowledge",
+      "name": "Computational Knowledge"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "project-management",
+      "name": "Project Management"
+    },
+    {
+      "id": "collaboration",
+      "name": "Collaboration"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "knowledge-base",
+      "name": "knowledge-base"
+    },
+    {
+      "id": "storage",
+      "name": "storage"
+    },
+    {
+      "id": "finance",
+      "name": "Finance"
+    },
+    {
+      "id": "market-data",
+      "name": "Market Data"
+    },
+    {
+      "id": "some-category",
+      "name": "Some category"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "developer-tools-&-devops",
+      "name": "Developer Tools & DevOps"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "e-commerce",
+      "name": "E-commerce"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "design-&-creative-tools",
+      "name": "Design & Creative Tools"
+    },
+    {
+      "id": "productivity-&-project-management",
+      "name": "Productivity & Project Management"
+    },
+    {
+      "id": "website-builders",
+      "name": "Website Builders"
+    },
+    {
+      "id": "membership-management",
+      "name": "Membership Management"
+    },
+    {
+      "id": "business-directories",
+      "name": "Business Directories"
+    },
+    {
+      "id": "hr-&-recruiting",
+      "name": "HR & Recruiting"
+    },
+    {
+      "id": "other-/-miscellaneous",
+      "name": "Other / Miscellaneous"
+    },
+    {
+      "id": "developer-tools",
+      "name": "Developer Tools"
+    },
+    {
+      "id": "web-scraping",
+      "name": "Web Scraping"
+    },
+    {
+      "id": "automation",
+      "name": "Automation"
+    },
+    {
+      "id": "ai-agents",
+      "name": "AI Agents"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "workflow-automation",
+      "name": "Workflow Automation"
+    },
+    {
+      "id": "security",
+      "name": "Security"
+    },
+    {
+      "id": "networking",
+      "name": "Networking"
+    },
+    {
+      "id": "signatures",
+      "name": "Signatures"
+    },
+    {
+      "id": "form-backend",
+      "name": "Form Backend"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "web-development",
+      "name": "Web Development"
+    },
+    {
+      "id": "developer-tools-&-devops",
+      "name": "Developer Tools & DevOps"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "design-&-creative-tools",
+      "name": "Design & Creative Tools"
+    },
+    {
+      "id": "workflow-automation",
+      "name": "Workflow Automation"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "browser-automation",
+      "name": "Browser Automation"
+    },
+    {
+      "id": "web-scraping",
+      "name": "Web Scraping"
+    },
+    {
+      "id": "headless-browsing",
+      "name": "Headless Browsing"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "customer-relationship-management",
+      "name": "Customer Relationship Management"
+    },
+    {
+      "id": "contact-management",
+      "name": "Contact Management"
+    },
+    {
+      "id": "lead-generation",
+      "name": "Lead Generation"
+    },
+    {
+      "id": "other-/-miscellaneous",
+      "name": "Other / Miscellaneous"
+    },
+    {
+      "id": "continuous-integration",
+      "name": "Continuous Integration"
+    },
+    {
+      "id": "continuous-deployment",
+      "name": "Continuous Deployment"
+    },
+    {
+      "id": "devops",
+      "name": "DevOps"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "bug-tracking",
+      "name": "Bug Tracking"
+    },
+    {
+      "id": "project-management",
+      "name": "Project Management"
+    },
+    {
+      "id": "website-feedback",
+      "name": "Website Feedback"
+    },
+    {
+      "id": "payment-processing",
+      "name": "Payment Processing"
+    },
+    {
+      "id": "cryptocurrency",
+      "name": "Cryptocurrency"
+    },
+    {
+      "id": "e-commerce",
+      "name": "E-commerce"
+    },
+    {
+      "id": "web-scraping",
+      "name": "Web Scraping"
+    },
+    {
+      "id": "data-extraction",
+      "name": "Data Extraction"
+    },
+    {
+      "id": "ai-integration",
+      "name": "AI Integration"
+    },
+    {
+      "id": "marketing-&-social-media",
+      "name": "Marketing & Social Media"
+    },
+    {
+      "id": "error-monitoring",
+      "name": "Error Monitoring"
+    },
+    {
+      "id": "application-performance-monitoring",
+      "name": "Application Performance Monitoring"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "caller-identification",
+      "name": "Caller Identification"
+    },
+    {
+      "id": "spam-protection",
+      "name": "Spam Protection"
+    },
+    {
+      "id": "fraud-prevention",
+      "name": "Fraud Prevention"
+    },
+    {
+      "id": "finance",
+      "name": "Finance"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "search",
+      "name": "Search"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "developer-tools",
+      "name": "Developer Tools"
+    },
+    {
+      "id": "accounting-software",
+      "name": "Accounting Software"
+    },
+    {
+      "id": "saas",
+      "name": "SaaS"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-&-customer-support",
+      "name": "Sales & Customer Support"
+    },
+    {
+      "id": "data-collection",
+      "name": "Data Collection"
+    },
+    {
+      "id": "forms-&-surveys",
+      "name": "Forms & Surveys"
+    },
+    {
+      "id": "analytics-&-data",
+      "name": "Analytics & Data"
+    },
+    {
+      "id": "form-builder",
+      "name": "Form Builder"
+    },
+    {
+      "id": "data-collection",
+      "name": "Data Collection"
+    },
+    {
+      "id": "survey-tool",
+      "name": "Survey Tool"
+    },
+    {
+      "id": "scheduling-&-booking",
+      "name": "Scheduling & Booking"
+    },
+    {
+      "id": "finance-&-accounting",
+      "name": "Finance & Accounting"
+    },
+    {
+      "id": "api-management",
+      "name": "API Management"
+    },
+    {
+      "id": "organization-administration",
+      "name": "Organization Administration"
+    },
+    {
+      "id": "lead-generation-software",
+      "name": "Lead Generation Software"
+    },
+    {
+      "id": "competitive-intelligence-software",
+      "name": "Competitive Intelligence Software"
+    },
+    {
+      "id": "developer-tools-&-devops",
+      "name": "Developer Tools & DevOps"
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity"
+    },
+    {
+      "id": "scheduling",
+      "name": "Scheduling"
+    },
+    {
+      "id": "content-delivery-network",
+      "name": "Content Delivery Network"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "scheduling-&-booking",
+      "name": "Scheduling & Booking"
+    },
+    {
+      "id": "marketing",
+      "name": "Marketing"
+    },
+    {
+      "id": "proximity-marketing",
+      "name": "Proximity Marketing"
+    },
+    {
+      "id": "qr-codes",
+      "name": "QR Codes"
+    },
+    {
+      "id": "beacons",
+      "name": "Beacons"
+    },
+    {
+      "id": "security-&-compliance",
+      "name": "Security & Compliance"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing"
+    },
+    {
+      "id": "campaign-optimization",
+      "name": "Campaign Optimization"
+    },
+    {
+      "id": "e-commerce",
+      "name": "E-commerce"
+    },
+    {
+      "id": "data-analysis",
+      "name": "Data Analysis"
+    },
+    {
+      "id": "marketing",
+      "name": "Marketing"
+    },
+    {
+      "id": "erp",
+      "name": "ERP"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "workflow-automation",
+      "name": "Workflow Automation"
+    },
+    {
+      "id": "design-&-creative-tools",
+      "name": "Design & Creative Tools"
+    },
+    {
+      "id": "lead-response-management",
+      "name": "Lead Response Management"
+    },
+    {
+      "id": "sales-automation",
+      "name": "Sales Automation"
+    },
+    {
+      "id": "crm-integration",
+      "name": "CRM Integration"
+    },
+    {
+      "id": "form-backend",
+      "name": "Form Backend"
+    },
+    {
+      "id": "no-code-tools",
+      "name": "No-Code Tools"
+    },
+    {
+      "id": "web-development",
+      "name": "Web Development"
+    },
+    {
+      "id": "goal-tracking",
+      "name": "Goal Tracking"
+    },
+    {
+      "id": "accountability",
+      "name": "Accountability"
+    },
+    {
+      "id": "user-engagement",
+      "name": "User Engagement"
+    },
+    {
+      "id": "product-management",
+      "name": "Product Management"
+    },
+    {
+      "id": "communication-tools",
+      "name": "Communication Tools"
+    },
+    {
+      "id": "internet-of-things-(iot)",
+      "name": "Internet of Things (IoT)"
+    },
+    {
+      "id": "cloud-services",
+      "name": "Cloud Services"
+    },
+    {
+      "id": "hardware-development",
+      "name": "Hardware Development"
+    },
+    {
+      "id": "other-/-miscellaneous",
+      "name": "Other / Miscellaneous"
+    },
+    {
+      "id": "education-&-lms",
+      "name": "Education & LMS"
+    },
+    {
+      "id": "animals",
+      "name": "Animals"
+    },
+    {
+      "id": "images",
+      "name": "Images"
+    },
+    {
+      "id": "apis",
+      "name": "APIs"
+    },
+    {
+      "id": "data-enrichment",
+      "name": "Data Enrichment"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "business-intelligence",
+      "name": "Business Intelligence"
+    },
+    {
+      "id": "document-generation",
+      "name": "Document Generation"
+    },
+    {
+      "id": "reporting-tools",
+      "name": "Reporting Tools"
+    },
+    {
+      "id": "api-services",
+      "name": "API Services"
+    },
+    {
+      "id": "accounting",
+      "name": "accounting"
+    },
+    {
+      "id": "productivity",
+      "name": "productivity"
+    },
+    {
+      "id": "dev-tools",
+      "name": "dev-tools"
+    },
+    {
+      "id": "esignature",
+      "name": "eSignature"
+    },
+    {
+      "id": "document-management",
+      "name": "Document Management"
+    },
+    {
+      "id": "workflow-automation",
+      "name": "Workflow Automation"
+    },
+    {
+      "id": "environmental-services",
+      "name": "Environmental Services"
+    },
+    {
+      "id": "api",
+      "name": "API"
+    },
+    {
+      "id": "ai-&-machine-learning",
+      "name": "AI & Machine Learning"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "other-/-miscellaneous",
+      "name": "Other / Miscellaneous"
+    },
+    {
+      "id": "security-&-compliance",
+      "name": "Security & Compliance"
+    },
+    {
+      "id": "hr-&-recruiting",
+      "name": "HR & Recruiting"
+    },
+    {
+      "id": "ai-chatbot",
+      "name": "AI Chatbot"
+    },
+    {
+      "id": "conversational-ai",
+      "name": "Conversational AI"
+    },
+    {
+      "id": "entertainment",
+      "name": "Entertainment"
+    },
+    {
+      "id": "email-marketing",
+      "name": "Email Marketing"
+    },
+    {
+      "id": "sms-marketing",
+      "name": "SMS Marketing"
+    },
+    {
+      "id": "marketing-automation",
+      "name": "Marketing Automation"
+    },
+    {
+      "id": "testing",
+      "name": "Testing"
+    },
+    {
+      "id": "monitoring",
+      "name": "Monitoring"
+    },
+    {
+      "id": "inventory-management",
+      "name": "Inventory Management"
+    },
+    {
+      "id": "business-software",
+      "name": "Business Software"
+    },
+    {
+      "id": "collaboration-&-communication",
+      "name": "Collaboration & Communication"
+    },
+    {
+      "id": "media-management",
+      "name": "Media Management"
+    },
+    {
+      "id": "video-hosting",
+      "name": "Video Hosting"
+    },
+    {
+      "id": "content-delivery-network",
+      "name": "Content Delivery Network"
+    },
+    {
+      "id": "accounts-receivable-automation",
+      "name": "Accounts Receivable Automation"
+    },
+    {
+      "id": "financial-software",
+      "name": "Financial Software"
+    },
+    {
+      "id": "developer-tools-&-devops",
+      "name": "Developer Tools & DevOps"
+    },
+    {
+      "id": "communications",
+      "name": "Communications"
+    },
+    {
+      "id": "webinars",
+      "name": "Webinars"
+    },
+    {
+      "id": "online-meetings",
+      "name": "Online Meetings"
+    },
+    {
+      "id": "crm",
+      "name": "CRM"
+    },
+    {
+      "id": "sales-automation",
+      "name": "Sales Automation"
+    },
+    {
+      "id": "email-automation",
+      "name": "Email Automation"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "name": "Python Code Quality Check",
+  "description": "Runs code quality checks when Python files are modified",
+  "version": "1",
+  "when": {
+    "type": "fileEdited",
+    "patterns": [
+      "backend/**/*.py"
+    ]
+  },
+  "then": {
+    "type": "askAgent",
+    "prompt": "Python files have been modified. Please run code quality checks:\n1. cd backend\n2. Check if flake8, black, or isort are available and run them on the modified files\n3. Report any code style issues or suggestions for improvement\n\nOnly run the tools that are actually installed in the project."
+  }
+}

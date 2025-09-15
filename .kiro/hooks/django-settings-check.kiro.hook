@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "name": "Django Settings Validation",
+  "description": "Validates Django configuration when settings.py is modified",
+  "version": "1",
+  "when": {
+    "type": "fileEdited",
+    "patterns": [
+      "backend/djapp/settings.py"
+    ]
+  },
+  "then": {
+    "type": "askAgent",
+    "prompt": "The Django settings.py file has been modified. Please run the following validation commands:\n1. cd backend\n2. python manage.py check\n3. python manage.py check --deploy\n\nReport any configuration issues or warnings that need attention."
+  }
+}

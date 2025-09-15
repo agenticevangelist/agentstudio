@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "name": "Environment Security Check",
+  "description": "Performs security checks when environment files are modified",
+  "version": "1",
+  "when": {
+    "type": "fileEdited",
+    "patterns": [
+      "**/.env",
+      "**/.env.*"
+    ]
+  },
+  "then": {
+    "type": "askAgent",
+    "prompt": "An environment file has been modified. Please perform security checks:\n1. Verify no sensitive data is accidentally committed to version control\n2. Check that all required environment variables are documented\n3. Ensure proper file permissions are set (should not be world-readable)\n4. Remind about updating .env.example if new variables were added\n\nDo not display the actual values of sensitive environment variables."
+  }
+}

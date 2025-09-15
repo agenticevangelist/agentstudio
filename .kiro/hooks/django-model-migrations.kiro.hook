@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "name": "Django Model Migrations",
+  "description": "Automatically runs makemigrations and migrate commands whenever any models.py file is modified in the backend Django apps",
+  "version": "1",
+  "when": {
+    "type": "fileEdited",
+    "patterns": [
+      "backend/*/models.py"
+    ]
+  },
+  "then": {
+    "type": "askAgent",
+    "prompt": "A models.py file has been modified in the Django backend. Please run the following commands in sequence:\n1. cd backend\n2. python manage.py makemigrations\n3. python manage.py migrate\n\nMake sure to handle any migration conflicts or errors that may arise during this process."
+  }
+}

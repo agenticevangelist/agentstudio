@@ -1,0 +1,178 @@
+
+@theme inline {
+    --animate-marquee: marquee var(--duration) infinite linear;
+    --animate-appear-zoom-fast: appear-zoom 0.3s forwards ease-out;
+    --animate-hover: hover 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+    --animate-hover-reverse: hover-reverse 6s cubic-bezier(0.4, 0, 0.6, 1)
+      infinite;
+    --animate-pulse-fade: pulse-fade 6s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+    --animate-pulse-hover: pulse-hover 6s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+    --animate-spin-slow: spin 3s linear infinite;
+    --animate-wiggle: wiggle 1s ease-in-out infinite;
+    --animate-impulse: impulse 2s ease-in-out infinite;
+    --animate-appear-slide: appear-slide 0.5s forwards
+      cubic-bezier(0.4, 0.18, 0.52, 1.6);
+    --animate-orbit: orbit 2s linear infinite;
+    --animate-rotate: rotate 8s linear infinite;
+    --animate-shiny-text: shiny-text 2.5s infinite;
+    --animate-reveal: reveal 3s forwards;
+  
+    --transition-delay-1500: 1500ms;
+    --transition-delay-2000: 2000ms;
+  
+    --inset-shadow-md: inset 0 2px 12px rgb(0 0 0 / 0.05);
+    --inset-shadow-lg: inset 0 2px 24px rgb(0 0 0 / 0.05);
+    --inset-shadow-xl: inset 0 2px 32px rgb(0 0 0 / 0.05);
+    @keyframes marquee {
+      from {
+        transform: translateX(0);
+      }
+      to {
+        transform: translateX(calc(-100% - var(--gap)));
+      }
+    }
+    
+    @keyframes pulse-hover {
+      0% {
+        opacity: 1;
+        transform: translateY(0);
+      }
+      50% {
+        opacity: 0.5;
+        transform: translateY(-1rem);
+      }
+      100% {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    @keyframes hover {
+      0% {
+        transform: translateY(0) translateX(0);
+      }
+      50% {
+        transform: translateY(-1rem) translateX(1rem);
+      }
+      100% {
+        transform: translateY(0) translateX(0);
+      }
+    }
+    @keyframes hover-reverse {
+      0% {
+        transform: translateY(0) translateX(0);
+      }
+      50% {
+        transform: translateY(1rem) translateX(1rem);
+      }
+      100% {
+        transform: translateY(0) translateX(0);
+      }
+    }
+    @keyframes pulse-fade {
+      0% {
+        opacity: 1;
+      }
+      50% {
+        opacity: 0.3;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
+    @keyframes wiggle {
+      0%,
+      16.67%,
+      33.33%,
+      50% {
+        transform: rotate(-15deg);
+      }
+      8.33%,
+      25%,
+      41.67% {
+        transform: rotate(15deg);
+      }
+      50%,
+      100% {
+        transform: rotate(0deg);
+      }
+    }
+    @keyframes impulse {
+      20% {
+        left: 0;
+        transform: scale(0.5);
+        opacity: 0;
+      }
+      50% {
+        opacity: 1;
+        left: 50%;
+        transform: scale(3);
+      }
+      80% {
+        opacity: 0;
+        left: 100%;
+        transform: scale(0.5);
+      }
+    }
+    @keyframes orbit {
+      0 {
+        stroke-dashoffset: 500;
+        opacity: 0;
+      }
+      10%,
+      20% {
+        opacity: 1;
+      }
+      35% {
+        opacity: 0;
+      }
+      40% {
+        opacity: 0;
+        stroke-dashoffset: -250;
+      }
+    }
+    @keyframes appear-slide {
+      0% {
+        opacity: 0;
+        transform: translateY(3rem) scale(0.5);
+      }
+      100% {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+      }
+    }
+    @keyframes rotate {
+      0% {
+        transform: rotate(0deg);
+      }
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+    @keyframes shiny-text {
+      0% {
+        background-position: calc(-100% - 200px) 0;
+      }
+      100% {
+        background-position: calc(100% + 200px) 0;
+      }
+    }
+    @keyframes reveal {
+      0% {
+        filter: blur(10px);
+        opacity: 0;
+      }
+      100% {
+        filter: blur(0px);
+        opacity: 1;
+      }
+    }
+  }
+  
+  .animate-marquee {
+    animation: marquee var(--duration, 40s) linear infinite;
+  }
+  
+  .animate-marquee-vertical {
+    animation: marquee-vertical var(--duration, 40s) linear infinite;
+  }
+  

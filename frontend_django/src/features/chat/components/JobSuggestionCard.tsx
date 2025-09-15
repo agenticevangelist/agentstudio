@@ -1,0 +1,69 @@
+"use client"
+
+import Image from "next/image"
+import React from "react"
+
+export type SuggestedIntegration = { toolkit_slug: string; tool_slugs: string[]; icon_url?: string }
+export type SuggestedItem = { prompt: string; integrations: SuggestedIntegration[] }
+
+// High-quality SVG overrides for known toolkits
+const ICON_OVERRIDES: Record<string, string> = {
+
+}
+
+function resolveIcon(toolkitSlug?: string, fallback?: string) {
+  if (!toolkitSlug) return fallback
+  const key = toolkitSlug.toLowerCase()
+  return ICON_OVERRIDES[key] || fallback
+}
+
+export function JobSuggestionCard({ item, onClick }: { item: SuggestedItem; onClick?: () => void }) {
+  // Deduplicate by toolkit slug; keep insertion order
+  const iconMap = new Map(
+    (item.integrations || []).map((i) => [i.toolkit_slug, resolveIcon(i.toolkit_slug, i.icon_url)])
+  )
+  const icons = Array.from(iconMap.entries())
+  const visible = icons.slice(0, 3)
+  const overflow = Math.max(0, icons.length - visible.length)
+  const tooltip = icons.map(([slug]) => slug).filter(Boolean).join(", ")
+
+  return (
+    <div className="group relative flex min-w-[18rem] max-w-[22rem] flex-col overflow-hidden rounded-md border border-muted/60 transition-colors hover:border-primary/30">
+      <button
+        type="button"
+        onClick={onClick}
+        className="flex h-full min-h-[96px] w-full flex-col gap-2 p-4 text-left hover:bg-accent/50"
+      >
+        <div className="flex items-center gap-2">
+          <div className="flex -space-x-1" title={tooltip}>
+            {visible.map(([slug, icon]) => (
+              <Image
+                key={slug as string}
+                src={icon as string}
+                alt={slug as string}
+                width={20}
+                height={20}
+                sizes="20px"
+                unoptimized
+                className="h-5 w-5 rounded object-contain border border-border bg-background"
+                style={{ imageRendering: "auto" }}
+              />
+            ))}
+            {overflow > 0 && (
+              <div
+                className="ml-1 inline-flex h-5 w-5 items-center justify-center rounded-full border border-border bg-muted text-[10px] text-foreground/80"
+                aria-label={`and ${overflow} more`}
+              >
+                +{overflow}
+              </div>
+            )}
+          </div>
+          <span className="ml-1 inline-flex items-center rounded-full bg-primary/10 px-2 py-0.5 text-[11px] font-medium text-primary">
+            Scheduled job
+          </span>
+        </div>
+        <div className="line-clamp-3 text-sm leading-snug text-foreground">{item.prompt}</div>
+      </button>
+    </div>
+  )
+}

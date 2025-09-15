@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "name": "Frontend Package Install",
+  "description": "Automatically installs Node.js dependencies when package.json is modified",
+  "version": "1",
+  "when": {
+    "type": "fileEdited",
+    "patterns": [
+      "frontend/package.json",
+      "frontend_django/package.json"
+    ]
+  },
+  "then": {
+    "type": "askAgent",
+    "prompt": "A package.json file has been updated. Please install the dependencies:\n\nFor the modified frontend:\n1. cd to the appropriate frontend directory\n2. Run the appropriate package manager command (npm install, pnpm install, or yarn install)\n\nCheck which package manager is being used based on the lock files present."
+  }
+}

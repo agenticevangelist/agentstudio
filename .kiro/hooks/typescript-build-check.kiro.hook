@@ -1,0 +1,19 @@
+{
+  "enabled": true,
+  "name": "TypeScript Build Check",
+  "description": "Checks TypeScript compilation when .ts or .tsx files are modified",
+  "version": "1",
+  "when": {
+    "type": "fileEdited",
+    "patterns": [
+      "frontend/**/*.ts",
+      "frontend/**/*.tsx",
+      "frontend_django/**/*.ts",
+      "frontend_django/**/*.tsx"
+    ]
+  },
+  "then": {
+    "type": "askAgent",
+    "prompt": "TypeScript files have been modified. Please check for compilation errors:\n1. cd to the appropriate frontend directory\n2. Run 'npx tsc --noEmit' to check for type errors\n3. Report any TypeScript compilation issues that need to be fixed"
+  }
+}

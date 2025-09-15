@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "name": "Django Requirements Install",
+  "description": "Automatically installs Python dependencies when requirements.txt is modified",
+  "version": "1",
+  "when": {
+    "type": "fileEdited",
+    "patterns": [
+      "backend/requirements.txt"
+    ]
+  },
+  "then": {
+    "type": "askAgent",
+    "prompt": "The requirements.txt file has been updated. Please run the following commands:\n1. cd backend\n2. pip install -r requirements.txt\n\nMake sure to activate the virtual environment if needed and handle any dependency conflicts."
+  }
+}
